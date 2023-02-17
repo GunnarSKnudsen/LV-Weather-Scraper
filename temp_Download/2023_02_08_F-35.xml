@@ -1,0 +1,2923 @@
+<?xml version="1.0"
+?><?mso-application progid="Excel.Sheet"
+?><Workbook
+   xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+   xmlns:o="urn:schemas-microsoft-com:office:office"
+   xmlns:x="urn:schemas-microsoft-com:office:excel"
+   xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+   xmlns:html="http://www.w3.org/TR/REC-html40">
+  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+    <Author>Havnadeildin</Author>
+    <LastAuthor>Havnadeildin</LastAuthor>
+    <Created>2007-03-15T23:04:04Z</Created>
+    <Company>Landsverk</Company>
+    <Version>11.8036</Version>
+  </DocumentProperties>
+  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+    <WindowHeight>15930</WindowHeight>
+    <WindowWidth>20025</WindowWidth>
+    <WindowTopX>480</WindowTopX>
+    <WindowTopY>105</WindowTopY>
+    <ProtectStructure>False</ProtectStructure>
+    <ProtectWindows>False</ProtectWindows>
+  </ExcelWorkbook>
+  <Styles>
+    <Style ss:ID="Default" ss:Name="Normal">
+      <Alignment ss:Vertical="Bottom"/>
+      <Borders/>
+      <Font/>
+      <Interior/>
+      <NumberFormat/>
+      <Protection/>
+    </Style>
+  </Styles>
+  <Worksheet ss:Name="States">
+    <Table ss:ExpandedColumnCount="54"
+           ss:ExpandedRowCount="18"
+           x:FullColumns="1"
+           x:FullRows="1">
+      <Row>
+        <Cell>
+          <Data ss:Type="String">time</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">temp2</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">hum</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">dew</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">rain</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">mean1</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">dir</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">undef</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">rainsum</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">rainint</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">undef</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">undef</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">press1</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">undef</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">datalog</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">undef</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">undef</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">undef</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">undef</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">undef</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">undef</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">undef</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">undef</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">rainclass</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">undef</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">undef</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">gust2</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">undef</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">undef</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">undef</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">road1_surface</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">undef</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">undef</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">undef</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">undef</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">road1_freez</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">road1_status</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">undef</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">undef</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">undef</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">road1_salt</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">undef</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">undef</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">undef</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">undef</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">road2_surface</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">undef</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">undef</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">undef</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">undef</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">road2_freez</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">road2_status</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">undef</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">undef</Data>
+	</Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">01:54</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">/</Data>
+	</Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">01:54</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">/</Data>
+	</Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">01:39</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">ð</Data>
+	</Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">01:39</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">ð</Data>
+	</Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">01:34</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">01:34</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">01:24</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">01:24</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">01:14</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">01:14</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">01:04</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">01:04</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">00:54</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">00:54</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">00:19</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">///</Data>
+	</Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">00:14</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">00:14</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+        <Cell>
+          <Data ss:Type="String">NA</Data>
+	</Cell>
+      </Row>
+    </Table>
+    <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+      <Selected/>
+      <Panes>
+        <Pane>
+          <Number>3</Number>
+          <ActiveRow>2</ActiveRow>
+        </Pane>
+      </Panes>
+      <ProtectObjects>False</ProtectObjects>
+      <ProtectScenarios>False</ProtectScenarios>
+    </WorksheetOptions>
+  </Worksheet>
+</Workbook>
